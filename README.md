@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working with AI Tools 
+- 🔭 I’m currently working with AI Tools  
 - 🌱 I’m currently learning more about IT 
 - 👯 I’m looking to collaborate on ...AWS projects 
 - 🤔 I’m looking for help with ...No code cloud skills
