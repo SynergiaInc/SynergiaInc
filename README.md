@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...AWS projects 
 - 🤔 I’m looking for help with ...No code cloud skills
 - 💬 Ask me about ...
-- 📫 How to reach me: synergiainc@gmail.com
+- 📫 How to reach me: synergiainc@hotmail.com
 - 😄 Pronouns: ...He 😎
 - ⚡ Fun fact: I love good music and developing new skills
 -->
